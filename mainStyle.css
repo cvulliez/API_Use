@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#displayResult{
+    color: darkblue;
+    margin-left: 2em;
+    font-size: 10;
+}
+
+img:hover{
+    cursor: pointer;  /* donne toutes les images de la page "clicables". permet d'affecter une action sur le "on clic" de l'image*/
+}
+
+img{
+    width: 40pc;
+    height: 40pc;
+    max-width: 200px;
+    max-height: 200px;
+}
